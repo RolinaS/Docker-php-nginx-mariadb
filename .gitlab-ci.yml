@@ -1,0 +1,14 @@
+build-job:
+  stage: build
+  script:
+    - echo "on build l'app"
+
+test-job:
+  stage: test
+  script:
+    - echo "on test l'app"
+
+deploy-job:
+  stage: deploy
+  script:
+    - echo "on deploie l'app"
