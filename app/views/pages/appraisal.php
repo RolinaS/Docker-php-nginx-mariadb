@@ -1,3 +1,3 @@
-<div class="home">
+<div class="appraisal">
     <p>Bonjour</p>
 </div>
