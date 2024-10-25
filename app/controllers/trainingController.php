@@ -1,4 +1,4 @@
 <?php
-$template = './views/pages/trainings.php';
+$template = './views/pages/training.php';
 
 
