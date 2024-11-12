@@ -1,8 +1,9 @@
-<div class="meal">
+<?php
+<div class="breakfast">
     <?php
     $meals = [
-        ["name" => "Petit Déjeuner", "image" => "petit_dejeuner.jpg", "link" => "breakfast.php"],
-        ["name" => "Déjeuner", "image" => "dejeuner.jpg", "link" => "lunch.php"],
+        ["name" => "oeuf, jambon, pain", "image" => "oeuf_jambon.jpg", "link" => "oeuf_jambon.php"],
+        ["name" => "musli choco banane", "image" => "musli_choco_banane.jpg", "link" => "musli_choco_banane.php"],
         ["name" => "Collations", "image" => "collation.jpg", "link" => "brunch.php"]
     ];
 
